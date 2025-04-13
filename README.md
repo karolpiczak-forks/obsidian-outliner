@@ -1,5 +1,12 @@
 # Obsidian Outliner
 
+## Install
+
+- `npm run build`
+- copy `main.js`, `manifest.json`, `styles.css`
+
+## Overview
+
 ![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/vslinko/obsidian-outliner/build.yml?style=for-the-badge&branch=main)
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/vslinko/obsidian-outliner?style=for-the-badge&sort=semver)
 

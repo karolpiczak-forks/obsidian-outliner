@@ -1,6 +1,6 @@
 {
-  "id": "obsidian-outliner",
-  "name": "Outliner",
+  "id": "kpfork-obsidian-outliner",
+  "name": "[R]: Outliner",
   "version": "4.9.0",
   "minAppVersion": "1.8.7",
   "description": "Work with your lists like in Workflowy or RoamResearch.",
